@@ -1,0 +1,13 @@
+{
+  "name": "node-coverage",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-test-coverage --test \"./src/**/__tests__/*.{spec,test}.js\""
+  },
+  "author": "Joshua Avalon",
+  "license": "Apache-2.0",
+  "devDependencies": {},
+  "dependencies": {}
+}
